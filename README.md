@@ -1,0 +1,7 @@
+懒得解释代码，怕你们手贱关掉电机输出了
+=======
+
+蓝色是三号 红色是四号
+-----------------------
+
+![GIF](https://github.com/MistyMoonR/XJTLU-Infantry/blob/master/Infantry.gif)
